@@ -1,8 +1,8 @@
 ## Welcome to Frances Zhou's GitHub Pages
 
-GitHub: https://github.com/FrancesZhou 
+GitHub: [https://github.com/FrancesZhou](https://github.com/FrancesZhou)
 
-Gitee: https://gitee.com/francesxianzhou
+Gitee: [https://gitee.com/francesxianzhou](https://gitee.com/francesxianzhou)
 
 ### Education 
 Sep. 2011 - Jun. 2015        B.S. in Nankai University
@@ -21,6 +21,6 @@ Jingze Cui, **Xian Zhou**, Yanmin Zhu, Yanyan Shen. “A Road-Aware Neural Netwo
 Haozhe Zhu, Yanyan Shen, **Xian Zhou**. “Matrix Factorization Meets Recurrent Neural Network for Temporal Rating Prediction”, APWeb-WAIM Joint Conference on Web and Big Data, Chengdu, China, August 2019. （CCF C）
 
 ### Contact Me
-Email: zhouxian@alumni.sjtu.edu.cn
+Email: [zhouxian@alumni.sjtu.edu.cn](zhouxian@alumni.sjtu.edu.cn)
 
 No.26, Fu Cheng Road, Hai Dian District, Beijing 100142, P.R.China
