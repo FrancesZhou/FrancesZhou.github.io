@@ -1,4 +1,4 @@
-## Welcome to Frances Zhou's GitHub Pages
+## Welcome to Frances Zhou's Homepage
 
 GitHub: [https://github.com/FrancesZhou](https://github.com/FrancesZhou)
 
