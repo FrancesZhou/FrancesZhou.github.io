@@ -1,5 +1,7 @@
 ## Welcome to Frances Zhou's Homepage
 
+Semantic Scholar: [https://www.semanticscholar.org/author/Xian-Zhou/2116447584](https://www.semanticscholar.org/author/Xian-Zhou/2116447584)
+
 GitHub: [https://github.com/FrancesZhou](https://github.com/FrancesZhou)
 
 Gitee: [https://gitee.com/francesxianzhou](https://gitee.com/francesxianzhou)
