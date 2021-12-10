@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Frances Zhou's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/FrancesZhou/FrancesZhou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub: https://github.com/FrancesZhou 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gitee: https://gitee.com/francesxianzhou
 
-### Markdown
+### Education 
+Sep. 2011 - Jun. 2015        B.S. in Nankai University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sep. 2015 - Dec. 2020        Ph.D. in Shanghai Jiao Tong University
 
-```markdown
-Syntax highlighted code block
+### Publication Selection
+**Xian Zhou**, Yanyan Shen, Yanmin Zhu, Linpeng Huang. “Predicting Multi-step Citywide Passenger Demands using Attention-based Neural Networks”, the 11th International Conference on Web Search and Data Mining (WSDM 2018), Los Angeles, CA, February 2018. (CCF B)
 
-# Header 1
-## Header 2
-### Header 3
+**Xian Zhou**, Yanyan Shen, Linpeng Huang. “Multi-level Attention Networks for Multi-step Citywide Passenger Demands Prediction”, IEEE Transactions on Knowledge and Data Engineering. PP. 1-1. 10.1109/TKDE.2019.2948005. (CCF A)
 
-- Bulleted
-- List
+**Xian Zhou**, Yanyan Shen, Linpeng Huang. “FreqST: Exploiting Frequency Information in Spatiotemporal Modeling for Traffic Prediction”, the 20th IEEE International Conference on Data Mining (ICDM 2020), Sorrento, Italy, November 2020. (CCF B)
 
-1. Numbered
-2. List
+Jingze Cui, **Xian Zhou**, Yanmin Zhu, Yanyan Shen. “A Road-Aware Neural Network for Multi-Step Vehicle Trajectory Prediction”, the 23rd International Conference on Database Systems For Advanced Applications (DASFAA 2018), Gold Coast, Australia, May 2018. (CCF B)
 
-**Bold** and _Italic_ and `Code` text
+Haozhe Zhu, Yanyan Shen, **Xian Zhou**. “Matrix Factorization Meets Recurrent Neural Network for Temporal Rating Prediction”, APWeb-WAIM Joint Conference on Web and Big Data, Chengdu, China, August 2019. （CCF C）
 
-[Link](url) and ![Image](src)
-```
+### Contact Me
+Email: zhouxian@alumni.sjtu.edu.cn
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrancesZhou/FrancesZhou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No.26, Fu Cheng Road, Hai Dian District, Beijing 100142, P.R.China
